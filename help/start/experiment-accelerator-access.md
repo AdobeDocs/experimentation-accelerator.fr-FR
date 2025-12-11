@@ -1,16 +1,16 @@
 ---
 solution: Journey Optimizer
 product: journey optimizer
-title: Journey Optimizer Experimentation Accelerator
+title: Journey Optimizer Experimentation Accelerator
 description: Améliorer votre capacité à mener des expériences efficacement et à générer des informations
 topic: Content Management
 role: User
 level: Beginner
 keywords: contenu, expérience, multiple, audience, traitement
 source-git-commit: b85ae521647894c7dcc77f8f192d9bea650a07dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '304'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Vous pouvez accéder à **[!UICONTROL Journey Optimizer Experimentation Accele
 
 ![](assets/access.png)
 
-Les expériences disponibles dépendent de votre configuration :
+Les expériences disponibles dépendent de votre configuration :
 
 * **Pour les utilisateurs et les utilisatrices d’Adobe Journey Optimizer** : les expériences configurées dans le sandbox activé de votre organisation sont automatiquement incluses.
 
@@ -55,7 +55,7 @@ Pour attribuer ce rôle à de nouvelles personnes, procédez comme suit :
 
 1. Saisissez le nom de la personne, son adresse e-mail ou choisissez dans la liste, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
-   Si l’utilisateur n’a pas été créé auparavant, consultez [cette documentation](https://experienceleague.adobe.com/fr/docs/experience-platform/access-control/abac/permissions-ui/users).
+   Si le profil de l’utilisateur ou de l’utilisatrice n’a pas été créé auparavant, consultez [cette documentation](https://experienceleague.adobe.com/fr/docs/experience-platform/access-control/abac/permissions-ui/users).
 
 La personne recevra un e-mail avec des instructions pour accéder à votre instance.
 

@@ -1,21 +1,21 @@
 ---
 solution: Journey Optimizer
 product: journey optimizer
-title: Journey Optimizer Experimentation Accelerator
+title: Journey Optimizer Experimentation Accelerator
 description: Améliorer votre capacité à mener des expériences efficacement et à générer des informations
 topic: Content Management
 role: User
 level: Beginner
 keywords: contenu, expérience, multiple, audience, traitement
 source-git-commit: 83cc6dccc20323efc96a09ee1bfda0aa38e52009
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
 
-# Journey Optimizer Experimentation Accelerator
+# Journey Optimizer Experimentation Accelerator
 
 ![](../assets/do-not-localize/experimentation-accelerator.gif)
 
@@ -36,8 +36,8 @@ Il offre les principaux avantages suivants :
 
 <table style="table-layout:fixed">
 <tr style="border: 0; text-align: center;">
-<td><a href="../start/experiment-accelerator-access.md"><img width="70%" alt="prise en main" src="../assets/do-not-localize/a-b-test.png"></a><br/><a href="../start/experiment-accelerator-access.md">Commencer avec Journey Optimizer Experimentation Accelerator</a></td>
+<td><a href="../start/experiment-accelerator-access.md"><img width="70%" alt="commencer" src="../assets/do-not-localize/a-b-test.png"></a><br/><a href="../start/experiment-accelerator-access.md">Commencer avec Journey Optimizer Experimentation Accelerator</a></td>
 <td><a href="../start/experiment-accelerator-best-practices.md"><img width="70%" alt="bonnes pratiques" src="../assets/do-not-localize/best-practices.png"></a><br/><a href="../start/experiment-accelerator-best-practices.md">Bonnes pratiques relatives à Journey Optimizer Experimentation Accelerator</a></td>
-<td><a href="../track/experiment-accelerator-monitor.md"><img width="70%" alt="track" src="../assets/do-not-localize/track.png"></a></br><a href="../track/experiment-accelerator-monitor.md">Suivre et surveiller les performances de vos expériences</a></td>
+<td><a href="../track/experiment-accelerator-monitor.md"><img width="70%" alt="suivre" src="../assets/do-not-localize/track.png"></a></br><a href="../track/experiment-accelerator-monitor.md">Suivre et surveiller les performances de vos expériences</a></td>
 </tr>
 </table>

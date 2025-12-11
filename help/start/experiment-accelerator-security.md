@@ -1,16 +1,16 @@
 ---
 solution: Journey Optimizer
 product: journey optimizer
-title: Journey Optimizer Experimentation Accelerator
+title: Journey Optimizer Experimentation Accelerator
 description: Utilisation des données dans l’IA avec Journey Optimizer Experimentation Accelerator
 topic: Content Management
 role: User
 level: Beginner
 keywords: contenu, expérience, multiple, audience, traitement
 source-git-commit: c52010f196f46d234066fd34ae8e9c0be7d2148b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '439'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ Chaque personne cliente est affectée à une organisation et à un sandbox spéc
 
 ## Les modèles ou l’IA d’Adobe modifient-ils automatiquement l’expérience utilisateur d’une marque ?
 
-Non. **Journey Optimizer Experimentation Accelerator** ne fait que des recommandations sur ce qui peut être modifié et comment il peut être modifié. Seuls les personnes autorisées à modifier l’expérience à l’aide de Journey Optimizer ou de Target peuvent appliquer ces recommandations. Toutes les recommandations peuvent être vérifiées et modifiées avant d’être publiées.
+Non. **Journey Optimizer Experimentation Accelerator** ne fait que des recommandations sur ce qui peut être modifié et sur la façon de le faire. Seuls les personnes autorisées à modifier l’expérience à l’aide de Journey Optimizer ou de Target peuvent appliquer ces recommandations. Toutes les recommandations peuvent être vérifiées et modifiées avant d’être publiées.
 
 ## Existe-t-il un risque pour les données ou la stabilité du système ?
 

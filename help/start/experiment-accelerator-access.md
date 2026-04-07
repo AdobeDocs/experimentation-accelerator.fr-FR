@@ -65,7 +65,7 @@ La personne recevra un e-mail avec des instructions pour accéder à votre insta
 
 +++ Découvrez comment attribuer des autorisations liées à l’expérience avec la licence Adobe Target
 
-1. Ouvrez l’**[](http://adminconsole.adobe.com/)**.
+1. Ouvrez l’**[&#128279;](http://adminconsole.adobe.com/)**.
 
 1. Dans **[!UICONTROL Produits]**, choisissez **[!UICONTROL Adobe Experience Platform]**.
 

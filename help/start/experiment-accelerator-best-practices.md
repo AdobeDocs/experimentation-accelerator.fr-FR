@@ -7,10 +7,10 @@ topic: Content Management
 role: User
 level: Beginner
 keywords: contenu, expérience, multiple, audience, traitement
-source-git-commit: c52010f196f46d234066fd34ae8e9c0be7d2148b
+source-git-commit: 020ed6c652c66ed78789a5a90dfc8c8dece624a9
 workflow-type: tm+mt
-source-wordcount: '742'
-ht-degree: 100%
+source-wordcount: '743'
+ht-degree: 91%
 
 ---
 
@@ -85,11 +85,11 @@ Exemple : _nous pensons que la modification de X augmentera Y en raison de Z._
 Une bonne expérience ne produit pas seulement un résultat positif, elle apporte aussi un enseignement clair et exploitable.
 Voici ce qu’il faut rechercher :
 
-&amp;check; **Fiabilité statistique** : il est peu probable que la différence entre les variantes soit due au hasard.
-&amp;check; **Alignement sur les objectifs** : la mesure principale reflète les progrès significatifs accomplis vers un objectif commercial.
-&amp;check; **Impact secondaire** : aucun effet secondaire négatif significatif sur les mesures associées.
-&amp;check; **Évolutivité** : le résultat peut éclairer les décisions futures ou être généralisé à d’autres domaines.
-&amp;check; **Clarté** : la cause du résultat est raisonnablement identifiée et comprise.
+&amp;check; **Confiance statistique** : il est peu probable que la différence entre les variantes soit due au hasard.
+&amp;check; **Alignement avec les objectifs** : la mesure principale reflète une progression significative vers un objectif commercial.
+&amp;check; **Impact Secondaire** : aucun effet secondaire négatif significatif sur les mesures associées.
+&amp;check; **Évolutivité** : le résultat peut éclairer les décisions futures ou être généralisé à d’autres domaines.
+&amp;check; **Clarté** : la cause du résultat est raisonnablement isolée et comprise.
 
 L’expérimentation ne consiste pas seulement à trouver la « meilleure » version, mais également à acquérir des connaissances par le biais de tests et d’itérations. Lorsqu’elles sont bien menées, les expériences révèlent des informations qui permettent de prendre des décisions plus intelligentes, d’offrir des expériences utilisateur optimisées et d’obtenir de meilleurs résultats.
 

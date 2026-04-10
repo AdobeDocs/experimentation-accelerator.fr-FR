@@ -1,8 +1,8 @@
 ---
 source-git-commit: 862c4dc768f62c0aae7ae27c9498fcf8269db737
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 100%
+source-wordcount: '521'
+ht-degree: 93%
 
 ---
 # Article sur les contributions
@@ -26,8 +26,8 @@ Ce projet a adopté le [code de conduite Adobe Open Source](code-of-conduct.md) 
 Si vous contribuez à une mise à jour mineure, procédez comme suit :
 
 1. Accédez à la rubrique que vous souhaitez modifier.
-1. Dans la bannière « Ce contenu a-t-il été utile ? » qui apparaît au bas de la fenêtre de votre navigateur, cliquez sur **Options de commentaires détaillées**.
-1. Cliquez sur **Suggérer une modification** et envoyez une requête de tirage (PR) avec vos modifications dans l’interface d’utilisation GitHub.
+1. Dans la bannière « Ce contenu a-t-il été utile ? » La bannière qui s’affiche en bas de la fenêtre du navigateur, cliquez sur **Options détaillées relatives aux commentaires**.
+1. Cliquez sur **Suggérer une modification** et envoyez une requête de tirage (PR) avec vos modifications dans l’interface utilisateur GitHub.
 
    Pour plus d’informations, consultez le [Guide du contributeur de documents Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=fr).
 
@@ -54,11 +54,11 @@ Si vous êtes en charge de la rédaction technique, si vous êtes responsable de
 Tous les articles de ce référentiel utilisent le markdown GitHub. Si vous ne connaissez pas Markdown, consultez ce qui suit :
 
 * [Concepts de base de Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [Markdown cheatsheet imprimable](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Aide-mémoire markdown imprimable](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-## Libellés
+## Étiquettes
 
-Dans le référentiel public, des libellés automatisés sont assignés à des requêtes de tirage afin de nous aider à gérer le workflow de requête de tirage et à vous aider à savoir ce qui se passe avec votre requête de tirage :
+Dans le référentiel public, des étiquettes automatisées sont assignées à des requêtes de tirage afin de nous aider à gérer le workflow de requête de tirage et à vous aider à savoir ce qui se passe avec votre requête de tirage :
 
 * **Change sent to author** : l’auteur a été informé de la requête de tirage en attente.
 * **ready-to-merge** : prêt à être analysé par notre équipe d’analyse de demande de tirage.

@@ -8,9 +8,9 @@ role: User
 level: Beginner
 keywords: contenu, expérience, multiple, audience, traitement
 source-git-commit: 020ed6c652c66ed78789a5a90dfc8c8dece624a9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '507'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Pour utiliser **[!UICONTROL Journey Optimizer Experimentation Accelerator]**, 
 * **[!UICONTROL Afficher les expériences]**
 * **[!UICONTROL Gérer les métadonnées d’expérience]**
 
-+++ Découvrez comment attribuer des autorisations liées à l’expérience avec une licence Adobe Experience Platform ou Adobe Parcours Optimizer
++++ Découvrez comment attribuer des autorisations liées aux expériences avec une licence Adobe Experience Platform ou Adobe Journey Optimizer.
 
 1. Dans le produit **[!DNL Permissions]**, accédez à l’onglet **[!UICONTROL Rôles]** et sélectionnez le **[!UICONTROL Rôle]** de votre choix.
 
@@ -63,19 +63,19 @@ La personne recevra un e-mail avec des instructions pour accéder à votre insta
 
 </br>
 
-+++ Découvrez comment attribuer des autorisations liées à l’expérience avec la licence Adobe Target
++++ Découvrez comment attribuer des autorisations liées aux expériences avec une licence Adobe Target.
 
-1. Ouvrez l’**[&#128279;](http://adminconsole.adobe.com/)**.
+1. Ouvrez **[Admin Console](http://adminconsole.adobe.com/)**.
 
-1. Dans **[!UICONTROL Produits]**, choisissez **[!UICONTROL Adobe Experience Platform]**.
+1. Dans **[!UICONTROL Produits]**, choisissez **[!UICONTROL Adobe Experience Platform]**.
 
 1. Cliquez sur **[!UICONTROL Nouveau profil]**.
 
    ![](assets/permission-target.png)
 
-1. Saisissez un **[!UICONTROL Nom]** et un **[!UICONTROL Description]** pour le profil, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez un **[!UICONTROL nom]** et une **[!UICONTROL description]** pour le profil, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
-1. Ouvrez le **[!UICONTROL Profil]** que vous venez de créer et accédez à l’onglet **[!UICONTROL Autorisations]**.
+1. Ouvrez le **[!UICONTROL profil]** que vous venez de créer et accédez à l’onglet **[!UICONTROL Autorisations]**.
 
 1. Cliquez sur ![](assets/do-not-localize/Smock_Edit_18_N.svg) en regard de l’autorisation **[!UICONTROL expérimentation-acceleration]**.
 
@@ -85,21 +85,21 @@ La personne recevra un e-mail avec des instructions pour accéder à votre insta
 
    >[!TIP]
    >
-   > Créez des profils distincts lorsque les utilisateurs et utilisatrices ont besoin de différents niveaux d’accès. Par exemple, créez un profil **[!UICONTROL Visionneuse]** avec uniquement **[!UICONTROL Afficher les expériences]** et un profil **[!UICONTROL Éditeur Experimentation Accelerator]** avec **[!UICONTROL Afficher les expériences]** et **[!UICONTROL Gérer les métadonnées d’expérience]**.
+   > Créez des profils distincts lorsque les utilisateurs et utilisatrices ont besoin de différents niveaux d’accès.Par exemple, créez un profil **[!UICONTROL Observateur ou observatrice Experiment Accelerator]** avec uniquement **[!UICONTROL Afficher les expériences]**, et un profil **[!UICONTROL Éditeur ou éditrice Experimentation Accelerator]** avec **[!UICONTROL Afficher les expériences]** et **[!UICONTROL Gérer les métadonnées d’expérience]**.
 
    ![](assets/permission-target-2.png)
 
 1. Dans l’onglet **[!UICONTROL Autorisations]**, sélectionnez **[!UICONTROL Sandbox]**.
 
-1. Ajoutez les sandbox dans lesquels les utilisateurs doivent pouvoir utiliser Journey Optimizer Experimentation Accelerator, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Ajoutez les sandbox dans lesquels les utilisateurs et utilisatrices doivent pouvoir utiliser Journey Optimizer Experimentation Accelerator, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
-1. Ouvrez l&#39;onglet **[!UICONTROL Utilisateurs]** puis cliquez sur **[!UICONTROL Ajouter des utilisateurs]**.
+1. Dans l’onglet **[!UICONTROL Utilisateurs et utilisatrices]**, cliquez sur **[!UICONTROL Ajouter des utilisateurs et utilisatrices]**.
 
    ![](assets/permission-target-3.png)
 
-1. Ajoutez les utilisateurs qui doivent recevoir cet accès, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Ajoutez les utilisateurs et utilisatrices qui doivent bénéficier de cet accès, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
-Les utilisateurs ajoutés à ce profil peuvent désormais accéder à Journey Optimizer Experimentation Accelerator à partir du sélecteur d’applications.
+Les utilisateurs et utilisatrices ajoutés à ce profil peuvent désormais accéder à Journey Optimizer Experimentation Accelerator à partir du sélecteur d’applications.
 
 +++
 

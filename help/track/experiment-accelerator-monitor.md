@@ -25,10 +25,10 @@ level_v2:
 topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 659a4723ac8b7cbaf3ea06c34107bf876612ccb4
+source-git-commit: c07dc7f896f9c65980339f4a7fc94123fa8afe71
 workflow-type: tm+mt
-source-wordcount: 1127
-ht-degree: 100%
+source-wordcount: 1367
+ht-degree: 79%
 
 ---
 
@@ -38,8 +38,8 @@ L’onglet **[!UICONTROL Expériences]** centralise le suivi et l’analyse des 
 
 ## Tableau de bord {#dashboard}
 
-Lorsque vous accédez à l’onglet Expériences, toutes les expériences disponibles dans Journey Optimizer et Adobe Target sont répertoriées dans une vue consolidée. Vous pouvez ainsi examiner et comparer rapidement des expériences sur les deux plateformes en un même endroit.
-La liste Expériences comprend les éléments suivants :
+Lors de l’accès à l’onglet Expériences , toutes les expériences disponibles à partir de Journey Optimizer et d’Adobe Target sont répertoriées dans une vue consolidée. Vous pouvez ainsi examiner et comparer rapidement des expériences sur les deux plateformes au même endroit.
+La liste Expériences comprend les éléments suivants :
 
 * Expériences Journey Optimizer créées dans des campagnes ou des parcours.
 
@@ -62,6 +62,7 @@ Pour accéder à vos expériences et les surveiller, sélectionnez l’expérien
 La page des détails de l’expérience est divisée en plusieurs sections :
 
 * [Résultat de l’expérience](#experiment-outcome)
+* [Mesure principale](#change-primary-metric)
 * [Hypothèse](#hypothesis)
 * [Détails](#details)
 * [Opportunités](#opportunities)
@@ -73,6 +74,42 @@ La page des détails de l’expérience est divisée en plusieurs sections :
 ![](assets/experiment-monitor-outcome.png)
 
 Le **[!UICONTROL résultat de l’expérience]** vous donne un aperçu rapide de la variation gagnante dans votre expérience.
+
+### Modification de la mesure principale {#change-primary-metric}
+
+>[!AVAILABILITY]
+>
+>Seuls les utilisateurs disposant de l’autorisation **[!UICONTROL Gérer les métadonnées d’expérience]** peuvent modifier la mesure principale.
+
+La modification de la mesure principale s’applique aux équipes qui utilisent **[!DNL Customer Journey Analytics]** ou **[!DNL Adobe Analytics]** comme source de création de rapports pour les expériences créées dans **[!DNL Adobe Target]** ou **[!DNL Adobe Journey Optimizer]**.
+
+Lorsque vous définissez ou modifiez la mesure principale, tenez compte des points suivants :
+
+* Vous n’importez qu’une mesure à la fois. Votre choix est stocké en tant que mesure principale pour cette expérience.
+
+* Les mises à jour s’appliquent uniquement dans Journey Optimizer Experimentation Accelerator. Elles ne sont pas réécrites dans Adobe Target ou Adobe Journey Optimizer.
+
+* Si votre organisation utilise uniquement Adobe Target en tant que source de création de rapports, vous ne pouvez pas modifier la mesure principale une fois le test publié.
+
+Pour modifier la mesure principale d’une expérience existante, procédez comme suit :
+
+1. Dans votre expérience, cliquez sur **[!UICONTROL Sélectionner une mesure de Principal]** si aucune mesure n’a été affectée, ou **[!UICONTROL Modifier]** si vous souhaitez la modifier.
+
+   ![](assets/primary-metric-1.png)
+
+1. Sélectionnez une mesure qui correspond au jeu de sources de création de rapports lors de la création de cette expérience dans **[!DNL Adobe Target]** ou **[!DNL Adobe Journey Optimizer]**.
+
+   Les mesures disponibles sont déterminées par la source de données configurée dans **[!DNL Adobe Target]** ou **[!DNL Adobe Journey Optimizer]**. Par exemple, si **[!DNL Customer Journey Analytics]** (CJA) a été sélectionné comme source de création de rapports dans Target, seules les mesures CJA peuvent être importées. Vous ne pouvez pas passer à une mesure à partir d’une autre source de données ni modifier la mesure principale en mesure **[!DNL Adobe Target]** native.
+
+1. Utilisez la recherche pour trouver une mesure par nom ou utilisez le filtre pour afficher les mesures déjà utilisées dans les expériences actives.
+
+   ![](assets/primary-metric-1.png)
+
+1. Enregistrez votre sélection.
+
+Lorsque vous modifiez la mesure principale, les informations et les opportunités générées précédemment sont effacées et régénérées. Lors de la régénération, le message suivant s&#39;affiche :
+
+`Opportunities are being regenerated based on the selected metric. Updates will appear soon.`
 
 ### Configurer {#set-up}
 

@@ -8,27 +8,16 @@ role: User
 level: Beginner
 keywords: contenu, expérience, multiple, audience, traitement
 TQID: https://experienceleague.adobe.com/IYG2Jag2XtctyPaYmQfhdMm0Ac5tEg7EA7gOw7GzUk4
-product_v2:
-  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2:
-  - id: b3538224-471e-4c63-a444-9b19d89ae29c
-  - id: b49ca41f-eb7a-4f4b-abeb-a97c06fd0c04
-  - id: d556b755-390a-43f0-be32-a08cf6236126
-  - id: d998adac-2f81-400b-a669-d07bb196e4eb
-  - id: dc22c819-3f29-4e91-8b7d-5c6719831141
-subfeature_v2:
-  - id: fb9a80eb-bebc-492f-a0e9-584595621ebb
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: b3538224-471e-4c63-a444-9b19d89ae29cid: b49ca41f-eb7a-4f4b-abeb-a97c06fd0c04id: d556b755-390a-43f0-be32-a08cf6236126id: d998adac-2f81-400b-a669-d07bb196e4ebid: dc22c819-3f29-4e91-8b7d-5c6719831141
+subfeature_v2: id: fb9a80eb-bebc-492f-a0e9-584595621ebb
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bcc5edb5-84c3-4940-9f84-ed88b6c16274id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: c07dc7f896f9c65980339f4a7fc94123fa8afe71
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 1367
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -38,8 +27,8 @@ L’onglet **[!UICONTROL Expériences]** centralise le suivi et l’analyse des 
 
 ## Tableau de bord {#dashboard}
 
-Lors de l’accès à l’onglet Expériences , toutes les expériences disponibles à partir de Journey Optimizer et d’Adobe Target sont répertoriées dans une vue consolidée. Vous pouvez ainsi examiner et comparer rapidement des expériences sur les deux plateformes au même endroit.
-La liste Expériences comprend les éléments suivants :
+Dans l’onglet Expériences, toutes les expériences disponibles à partir de Journey Optimizer et d’Adobe Target sont répertoriées dans une vue consolidée. Vous pouvez ainsi examiner et comparer rapidement des expériences sur les deux plateformes au même endroit.
+La liste Expériences comprend les éléments suivants :
 
 * Expériences Journey Optimizer créées dans des campagnes ou des parcours.
 
@@ -79,35 +68,35 @@ Le **[!UICONTROL résultat de l’expérience]** vous donne un aperçu rapide de
 
 >[!AVAILABILITY]
 >
->Seuls les utilisateurs disposant de l’autorisation **[!UICONTROL Gérer les métadonnées d’expérience]** peuvent modifier la mesure principale.
+>Pour modifier la mesure principale, il est nécessaire de disposer de l’autorisation **[!UICONTROL Gérer les métadonnées d’expérience]**.
 
-La modification de la mesure principale s’applique aux équipes qui utilisent **[!DNL Customer Journey Analytics]** ou **[!DNL Adobe Analytics]** comme source de création de rapports pour les expériences créées dans **[!DNL Adobe Target]** ou **[!DNL Adobe Journey Optimizer]**.
+La modification de la mesure principale s’applique aux équipes qui utilisent **[!DNL Customer Journey Analytics]** ou **[!DNL Adobe Analytics]** comme source de reporting pour les expériences créées dans **[!DNL Adobe Target]** ou **[!DNL Adobe Journey Optimizer]**.
 
-Lorsque vous définissez ou modifiez la mesure principale, tenez compte des points suivants :
+Lorsque vous définissez ou modifiez la mesure principale, tenez compte des points suivants :
 
 * Vous n’importez qu’une mesure à la fois. Votre choix est stocké en tant que mesure principale pour cette expérience.
 
-* Les mises à jour s’appliquent uniquement dans Journey Optimizer Experimentation Accelerator. Elles ne sont pas réécrites dans Adobe Target ou Adobe Journey Optimizer.
+* Les mises à jour s’appliquent uniquement dans Journey Optimizer Experimentation Accelerator. Elles ne sont pas répercutées dans Adobe Target ou Adobe Journey Optimizer.
 
-* Si votre organisation utilise uniquement Adobe Target en tant que source de création de rapports, vous ne pouvez pas modifier la mesure principale une fois le test publié.
+* Si votre organisation utilise uniquement Adobe Target en tant que source de reporting, vous ne pouvez pas modifier la mesure principale une fois le test publié.
 
-Pour modifier la mesure principale d’une expérience existante, procédez comme suit :
+Pour modifier la mesure principale d’une expérience existante, procédez comme suit :
 
-1. Dans votre expérience, cliquez sur **[!UICONTROL Sélectionner une mesure de Principal]** si aucune mesure n’a été affectée, ou **[!UICONTROL Modifier]** si vous souhaitez la modifier.
+1. Dans votre expérience, cliquez sur **[!UICONTROL Sélectionner la mesure principale]** si aucune mesure n’a été affectée, ou **[!UICONTROL Modifier]** si vous souhaitez la modifier.
 
    ![](assets/primary-metric-1.png)
 
-1. Sélectionnez une mesure qui correspond au jeu de sources de création de rapports lors de la création de cette expérience dans **[!DNL Adobe Target]** ou **[!DNL Adobe Journey Optimizer]**.
+1. Sélectionnez une mesure qui correspond au jeu de sources de reporting lors de la création de cette expérience dans **[!DNL Adobe Target]** ou **[!DNL Adobe Journey Optimizer]**.
 
-   Les mesures disponibles sont déterminées par la source de données configurée dans **[!DNL Adobe Target]** ou **[!DNL Adobe Journey Optimizer]**. Par exemple, si **[!DNL Customer Journey Analytics]** (CJA) a été sélectionné comme source de création de rapports dans Target, seules les mesures CJA peuvent être importées. Vous ne pouvez pas passer à une mesure à partir d’une autre source de données ni modifier la mesure principale en mesure **[!DNL Adobe Target]** native.
+   Les mesures disponibles sont déterminées par la source de données configurée dans **[!DNL Adobe Target]** ou **[!DNL Adobe Journey Optimizer]**.Par exemple, si **[!DNL Customer Journey Analytics]** (CJA) a été sélectionné comme source de reporting dans Target, seules les mesures CJA peuvent être importées.Vous ne pouvez pas passer à une mesure à partir d’une autre source de données ni modifier la mesure principale en mesure **[!DNL Adobe Target]** native.
 
-1. Utilisez la recherche pour trouver une mesure par nom ou utilisez le filtre pour afficher les mesures déjà utilisées dans les expériences actives.
+1. Utilisez la recherche pour trouver une mesure par nom ou appliquez un filtre pour afficher les mesures déjà utilisées dans les expériences actives.
 
    ![](assets/primary-metric-1.png)
 
 1. Enregistrez votre sélection.
 
-Lorsque vous modifiez la mesure principale, les informations et les opportunités générées précédemment sont effacées et régénérées. Lors de la régénération, le message suivant s&#39;affiche :
+Lorsque vous modifiez la mesure principale, les informations et les opportunités générées précédemment sont effacées et régénérées.Lors de la régénération, le message suivant s&#39;affiche :
 
 `Opportunities are being regenerated based on the selected metric. Updates will appear soon.`
 

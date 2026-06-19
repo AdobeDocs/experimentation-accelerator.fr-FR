@@ -10,9 +10,9 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experimentation-accelerator.fr-FR
 index: true
 source-git-commit: 03f1199f9e432e6c59765e683e733f6ee0a11835
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 69
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 92%
 
 Le fichier metadata.md inclut des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide utilisateur dans le référentiel. Si vous souhaitez modifier le contenu de metadata.md pour un guide utilisateur, faites-le dans n’importe quel fichier TOC.md.
 
-Consultez [&#x200B; Métadonnées &#x200B;](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=fr) pour une liste des valeurs valides pour **solution**, **produit** et **type**
+Consultez [ Métadonnées ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=fr) pour une liste des valeurs valides pour **solution**, **produit** et **type**
